@@ -1,0 +1,11 @@
+create table aluno(
+id int not null auto_increment,
+nome varchar(200),
+cpf int,
+datanascimento date,
+genero varchar(1),
+telefone int,
+email varchar(100),
+responsaveis varchar(500),
+primary key(id)
+)

@@ -1,0 +1,1 @@
+alter table aluno change column nome_ nome varchar(200)

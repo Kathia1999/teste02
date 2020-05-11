@@ -1,0 +1,1 @@
+alter table disciplinas drop column nomeprofessor 
